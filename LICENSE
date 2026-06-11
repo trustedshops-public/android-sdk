@@ -1,0 +1,33 @@
+Trusted Shops SDK Proprietary License
+
+Copyright © Trusted Shops SE. All rights reserved.
+
+This repository, including all documentation, instructions, examples, metadata,
+and any Trusted Shops SDK artifacts referenced or distributed through it, is
+proprietary to Trusted Shops SE or its licensors.
+
+No license or other rights are granted to you by making this repository publicly
+available, except for the limited right to access and read the repository content
+for the purpose of evaluating, downloading, and integrating the Trusted Shops SDK
+in accordance with the applicable Trusted Shops SDK license agreement or another
+written agreement with Trusted Shops SE.
+
+Unless expressly permitted by the applicable Trusted Shops SDK license agreement
+or another written agreement with Trusted Shops SE, you may not copy, reproduce,
+modify, adapt, translate, publish, distribute, sublicense, sell, rent, lease,
+make available, create derivative works from, reverse engineer, decompile,
+disassemble, or otherwise exploit this repository content or any Trusted Shops
+SDK artifacts.
+
+The Trusted Shops SDK is closed source. Only compiled SDK artifacts and public
+API documentation may be distributed. Source code is not made available under
+this license.
+
+Use of the Trusted Shops SDK is governed by the applicable Trusted Shops SDK
+license agreement or another written agreement with Trusted Shops SE.
+
+This repository and the Trusted Shops SDK are provided "as is" and without any
+warranty, to the maximum extent permitted by applicable law. Trusted Shops SE
+will not be liable for any damages arising out of or in connection with this
+repository or the Trusted Shops SDK except as required by applicable law or by a
+separate written agreement.
